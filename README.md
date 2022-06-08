@@ -1,4 +1,4 @@
-# instagram_ui
+Clone Profile Instagram UI
 
 A new Flutter project.
 
